@@ -4,6 +4,24 @@
     - name: Full Name
       value: James Watson
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Computational Complexity and Physics
+      items:
+        - Are there systems in physics which are simply too complex to solve? If so, how do we classify them? What are their properties?
+        - What can the physics of these systems tell us about quantum computers are computer science more generally?
+    - title: Applying Classical Machine Learning to Quantum Systems
+      items:
+        - Classical shadows have allowed us to access quantum systems with classical data. How can we apply these methods to learn quantum systems efficiently?
+        - When do these techniques ``dequantise'' current quantum machine learning techniques?
+        - Can we use classical machine learning to speed-up quantum algorithms?
+     - title: Algorithms for Quantum Simulation
+      items:
+        - Quantum simulation is among the most promising applications for a speedup using a quantu computer. But which algorithms are likely to most effective?
+        - Can we leverage asymptotical poor quantum algorithms into something better using classical machine learning and post-processing? 
+        - When applying these algorithms, how can we best leverage the structure of the problem to reduce resource costs?
+
 
 - title: Education
   type: time_table
@@ -12,25 +30,20 @@
       institution: University College London
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Supervised by Toby Cubitt.
+        - Worked on a range of problems concerning the intersection of quantum complexity theory and physics.
+
     - title: MMath, Mathematics (Part III Mathematics)
       institution: Cambridge University
       year: 2015-2016
       description:
-        - Description 1.
-        - Description 2.
+        - Mathematics courses focusing heavily on high energy physics, such a QFT, string theory, etc.
 
        - title: BA, Physics  
       institution: Cambridge University
       year: 2011-2015
       description:
-        - Description 1.
-        - Description 2.
+        - Undergradute degree in physics.
 
 - title: Experience
   type: time_table
@@ -61,23 +74,7 @@
       items:
         - British Physics Olympiad, Top 5 Candidate
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Computational Complexity and Physics
-      items:
-        - Are there systems in physics which are simply too complex to solve? If so, how do we classify them? What are their properties?
-        - What can the physics of these systems tell us about quantum computers are computer science more generally?
-    - title: Applying Classical Machine Learning to Quantum Systems
-      items:
-        - Classical shadows have allowed us to access quantum systems with classical data. How can we apply these methods to learn quantum systems efficiently?
-        - When do these techniques ``dequantise'' current quantum machine learning techniques?
-        - Can we use classical machine learning to speed-up quantum algorithms?
-     - title: Algorithms for Quantum Simulation
-      items:
-        - Quantum simulation is among the most promising applications for a speedup using a quantu computer. But which algorithms are likely to most effective?
-        - Can we leverage asymptotical poor quantum algorithms into something better using classical machine learning and post-processing? 
-        - When applying these algorithms, how can we best leverage the structure of the problem to reduce resource costs?
+
         
 
 
