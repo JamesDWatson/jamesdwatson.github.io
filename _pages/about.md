@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://quics.umd.edu/people/james-watson'>QuICS, University of Maryland</a>. 
+subtitle: <a href='https://quics.umd.edu/people/james-watson'>QuICS, University of Maryland</a>. Previously <a href='https://quantum.cs.ucl.ac.uk/people/'>UCL</a>. 
 
 profile:
   align: right
