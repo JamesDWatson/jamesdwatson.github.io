@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://quics.umd.edu/people/james-watson'>QuICS, University of Maryland</a>. 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Suite 3010</p>
-    <p>123 your address street</p>
+    <p>Atlantic Building</p>
     <p>College Park, MD</p>
 
 news: true # includes a list of news items
