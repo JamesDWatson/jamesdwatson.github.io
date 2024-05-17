@@ -22,7 +22,6 @@
         - Can we leverage asymptotical poor quantum algorithms into something better using classical machine learning and post-processing? 
         - When applying these algorithms, how can we best leverage the structure of the problem to reduce resource costs?
 
-
 - title: Education
   type: time_table
   contents:
